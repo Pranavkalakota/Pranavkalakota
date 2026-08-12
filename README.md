@@ -81,7 +81,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Code%20Time-126%20hrs%2040%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
+<img src="https://img.shields.io/badge/Code%20Time-126%20hrs%2048%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
 <img src="https://komarev.com/ghpvc/?username=Pranavkalakota&style=flat&color=blue&labelColor=grey" alt="Profile Views"/>
 
 </div>
