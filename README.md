@@ -58,13 +58,13 @@
 <tr>
 <td width="33%" colspan="3">
 
-<h3 align="center">Orion</h3>
+<h3 align="center">LSM Tree</h3>
 <p align="center">
-<a href="https://github.com/Pranavkalakota/Orion">
+<a href="https://github.com/Pranavkalakota/lsm-tree">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Work_In_Progress-EAB308?style=for-the-badge"/>
 </p>
+<p align="center">Log-Structured Merge Tree implementation for high-performance key-value storage.</p>
 
 </td>
 </tr>
