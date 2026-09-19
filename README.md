@@ -28,6 +28,7 @@
 <a href="https://github.com/Pranavkalakota/MCP-Server">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Completed-2EA043?style=for-the-badge"/>
 </p>
 <p align="center">Task manager server using Model Context Protocol integrating a local chatbot and real-time SQLite updates.</p>
 
@@ -39,6 +40,7 @@
 <a href="https://github.com/Pranavkalakota/VEDA">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Completed-2EA043?style=for-the-badge"/>
 </p>
 <p align="center">Interactive personal portfolio platform showcasing software engineering work and background.</p>
 
@@ -50,6 +52,7 @@
 <a href="https://github.com/Pranavkalakota/LinkedIn-Personal-Portfolio">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Completed-2EA043?style=for-the-badge"/>
 </p>
 <p align="center">LinkedIn-style personal portfolio showcasing projects and professional experience.</p>
 
@@ -63,6 +66,7 @@
 <a href="https://github.com/Pranavkalakota/lsm-tree">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Work_In_Progress-EAB308?style=for-the-badge"/>
 </p>
 <p align="center">Log-Structured Merge Tree implementation for high-performance key-value storage.</p>
 
