@@ -47,26 +47,12 @@
 </td>
 <td width="33%">
 
-<h3 align="center">Personal Portfolio</h3>
-<p align="center">
-<a href="https://github.com/Pranavkalakota/LinkedIn-Personal-Portfolio">
-<img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Completed-2EA043?style=for-the-badge"/>
-</p>
-<p align="center">Personal portfolio showcasing projects and professional experience.</p>
-
-</td>
-</tr>
-<tr>
-<td width="33%" colspan="3">
-
 <h3 align="center">LSM Tree</h3>
 <p align="center">
 <a href="https://github.com/Pranavkalakota/lsm-tree">
 <img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Work_In_Progress-EAB308?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Completed-2EA043?style=for-the-badge"/>
 </p>
 <p align="center">Log-Structured Merge Tree implementation for high-performance key-value storage.</p>
 
